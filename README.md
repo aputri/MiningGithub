@@ -1,3 +1,8 @@
+# Mining Github
+
+Grabbing GitHub data to generate a graph that shows all the collaborations among a specific group of users using Github API.
+
+
 ## Installation
 
 Download jq
