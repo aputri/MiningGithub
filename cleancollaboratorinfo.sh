@@ -1,0 +1,25 @@
+#!/bin/bash
+curl https://api.github.com/repos/shannty/Basic-Java-Things/commits | jq '[.[] | {login: .author.login, message: .commit.message}]' >> listcollabs.txt
+curl https://api.github.com/repos/shannty/Binary-Search/commits | jq '[.[] | {login: .author.login, message: .commit.message}]' >> listcollabs.txt
+curl https://api.github.com/repos/shannty/COSC-499/commits | jq '[.[] | {login: .author.login, message: .commit.message}]' >> listcollabs.txt
+curl https://api.github.com/repos/shannty/CS106B/commits | jq '[.[] | {login: .author.login, message: .commit.message}]' >> listcollabs.txt
+curl https://api.github.com/repos/shannty/datasciencecoursera/commits | jq '[.[] | {login: .author.login, message: .commit.message}]' >> listcollabs.txt
+curl https://api.github.com/repos/shannty/datasharing/commits | jq '[.[] | {login: .author.login, message: .commit.message}]' >> listcollabs.txt
+curl https://api.github.com/repos/shannty/go/commits | jq '[.[] | {login: .author.login, message: .commit.message}]' >> listcollabs.txt
+curl https://api.github.com/repos/shannty/Inheritance-Practice/commits | jq '[.[] | {login: .author.login, message: .commit.message}]' >> listcollabs.txt
+curl https://api.github.com/repos/shannty/MergeSort/commits | jq '[.[] | {login: .author.login, message: .commit.message}]' >> listcollabs.txt
+curl https://api.github.com/repos/shannty/Simple-Text-Parser/commits | jq '[.[] | {login: .author.login, message: .commit.message}]' >> listcollabs.txt
+curl https://api.github.com/repos/shannty/StatLearning/commits | jq '[.[] | {login: .author.login, message: .commit.message}]' >> listcollabs.txt
+curl https://api.github.com/repos/ewardle/cosc360-daylog/commits | jq '[.[] | {login: .author.login, message: .commit.message}]' >> listcollabs.txt
+curl https://api.github.com/repos/ewardle/Workshop/commits | jq '[.[] | {login: .author.login, message: .commit.message}]' >> listcollabs.txt
+curl https://api.github.com/repos/lamng/Drupal-Commerce/commits | jq '[.[] | {login: .author.login, message: .commit.message}]' >> listcollabs.txt
+curl https://api.github.com/repos/ameenshake/Ez-Buy/commits | jq '[.[] | {login: .author.login, message: .commit.message}]' >> listcollabs.txt
+curl https://api.github.com/repos/ameenshake/FeedMe/commits | jq '[.[] | {login: .author.login, message: .commit.message}]' >> listcollabs.txt
+curl https://api.github.com/repos/ameenshake/google-homepage/commits | jq '[.[] | {login: .author.login, message: .commit.message}]' >> listcollabs.txt
+curl https://api.github.com/repos/ameenshake/oh-my-fish/commits | jq '[.[] | {login: .author.login, message: .commit.message}]' >> listcollabs.txt
+curl https://api.github.com/repos/ameenshake/OKLister-Theme/commits | jq '[.[] | {login: .author.login, message: .commit.message}]' >> listcollabs.txt
+curl https://api.github.com/repos/ameenshake/playground/commits | jq '[.[] | {login: .author.login, message: .commit.message}]' >> listcollabs.txt
+curl https://api.github.com/repos/ameenshake/ProEuler/commits | jq '[.[] | {login: .author.login, message: .commit.message}]' >> listcollabs.txt
+curl https://api.github.com/repos/ameenshake/Scratchpad/commits | jq '[.[] | {login: .author.login, message: .commit.message}]' >> listcollabs.txt
+curl https://api.github.com/repos/ameenshake/Slider/commits | jq '[.[] | {login: .author.login, message: .commit.message}]' >> listcollabs.txt
+curl https://api.github.com/repos/ameenshake/ubco_books/commits | jq '[.[] | {login: .author.login, message: .commit.message}]' >> listcollabs.txt

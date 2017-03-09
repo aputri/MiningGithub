@@ -1,0 +1,868 @@
+[
+  {
+    "login": "shannty",
+    "message": "Create Purchases"
+  },
+  {
+    "login": "shannty",
+    "message": "Create MBAdult"
+  },
+  {
+    "login": "shannty",
+    "message": "Create Clothing"
+  },
+  {
+    "login": "shannty",
+    "message": "Create Children"
+  },
+  {
+    "login": "shannty",
+    "message": "Create BCAdult"
+  },
+  {
+    "login": "shannty",
+    "message": "Create Adult"
+  },
+  {
+    "login": "shannty",
+    "message": "Initial commit"
+  }
+]
+[
+  {
+    "login": "shannty",
+    "message": "Create TestBinarySearch"
+  },
+  {
+    "login": "shannty",
+    "message": "Create BinarySearch"
+  },
+  {
+    "login": "shannty",
+    "message": "Create README.md"
+  }
+]
+[
+  {
+    "login": "shannty",
+    "message": "Update index.md"
+  },
+  {
+    "login": "shannty",
+    "message": "Update index.md"
+  },
+  {
+    "login": "shannty",
+    "message": "Create index.md"
+  },
+  {
+    "login": "shannty",
+    "message": "Update README.md"
+  },
+  {
+    "login": "shannty",
+    "message": "Update README.md"
+  },
+  {
+    "login": "shannty",
+    "message": "Initial commit"
+  }
+]
+[
+  {
+    "login": "shannty",
+    "message": "First Commit"
+  }
+]
+[
+  {
+    "login": "shannty",
+    "message": "added HelloWorld.md, the second commit"
+  },
+  {
+    "login": "shannty",
+    "message": "Initial commit"
+  }
+]
+[
+  {
+    "login": "jtleek",
+    "message": "Merge pull request #9 from nikai3d/patch-1\n\nfix typo"
+  },
+  {
+    "login": "nikai3d",
+    "message": "fix typo"
+  },
+  {
+    "login": "jtleek",
+    "message": "Merge pull request #8 from rpglover64/patch-1\n\nUpdate README.md"
+  },
+  {
+    "login": "rpglover64",
+    "message": "Update README.md\n\nChange stated number of \"general principles\" in the \"tidy data set\" section from \"three\" to \"four\"."
+  },
+  {
+    "login": "jtleek",
+    "message": "Merge pull request #6 from snoldak924/patch-1\n\nUpdate README.md"
+  },
+  {
+    "login": "jtleek",
+    "message": "Merge pull request #7 from jimktrains/master\n\nFixed links ending in )"
+  },
+  {
+    "login": "jimktrains",
+    "message": "Fixed links ending in )"
+  },
+  {
+    "login": "snoldak924",
+    "message": "Update README.md\n\ntypo"
+  },
+  {
+    "login": "jtleek",
+    "message": "Merge pull request #5 from nickreich/master\n\nAdded section on proper encoding of variables in Excel."
+  },
+  {
+    "login": "nickreich",
+    "message": "update NR contribution."
+  },
+  {
+    "login": "nickreich",
+    "message": "added section on encoding information with formatting instead of text (bad!!)"
+  },
+  {
+    "login": "jtleek",
+    "message": "Merge pull request #3 from lcolladotor/master\n\nFixed typos, added links"
+  },
+  {
+    "login": "lcolladotor",
+    "message": "Fixed typos, added links"
+  },
+  {
+    "login": "jtleek",
+    "message": "Merge pull request #1 from mmparker/master\n\nReplaced \"workbook\" with \"worksheet\" where appropriate."
+  },
+  {
+    "login": "mmparker",
+    "message": "Replaced \"workbook\" with \"worksheet\" where appropriate.\n\nIt's my understanding that for Excel, workbook is the same thing as a file - which can contain multiple worksheets."
+  },
+  {
+    "login": "jtleek",
+    "message": "Update README.md"
+  },
+  {
+    "login": "jtleek",
+    "message": "Update README.md"
+  },
+  {
+    "login": "jtleek",
+    "message": "Update README.md"
+  },
+  {
+    "login": "jtleek",
+    "message": "Update README.md"
+  },
+  {
+    "login": "jtleek",
+    "message": "Update README.md"
+  },
+  {
+    "login": "jtleek",
+    "message": "Update README.md"
+  },
+  {
+    "login": "jtleek",
+    "message": "Update README.md"
+  },
+  {
+    "login": "jtleek",
+    "message": "Update README.md"
+  },
+  {
+    "login": "jtleek",
+    "message": "Update README.md"
+  },
+  {
+    "login": "jtleek",
+    "message": "Initial commit"
+  }
+]
+[
+  {
+    "login": "clarecorthell",
+    "message": "SciPy 2013 ML Tutorial Video h/t @josiahjdavis"
+  },
+  {
+    "login": "clarecorthell",
+    "message": "\"Data Design\" section"
+  },
+  {
+    "login": "clarecorthell",
+    "message": "formatting"
+  },
+  {
+    "login": "clarecorthell",
+    "message": "Update README.md"
+  },
+  {
+    "login": "clarecorthell",
+    "message": "Update README.md"
+  },
+  {
+    "login": "clarecorthell",
+    "message": "Added online book h/t @josiahdavis"
+  },
+  {
+    "login": "clarecorthell",
+    "message": "Delete test.md"
+  },
+  {
+    "login": "clarecorthell",
+    "message": "Create test.md"
+  },
+  {
+    "login": "clarecorthell",
+    "message": "Added \"The Nature of Programming\" h/t @salemtalha"
+  },
+  {
+    "login": "clarecorthell",
+    "message": "Update machine-learning.md"
+  },
+  {
+    "login": "clarecorthell",
+    "message": "Update machine-learning.md"
+  },
+  {
+    "login": "clarecorthell",
+    "message": "Update machine-learning.md"
+  },
+  {
+    "login": "clarecorthell",
+    "message": "Update machine-learning.md"
+  },
+  {
+    "login": "clarecorthell",
+    "message": "Update machine-learning.md"
+  },
+  {
+    "login": "clarecorthell",
+    "message": "Create machine-learning.md"
+  },
+  {
+    "login": "clarecorthell",
+    "message": "Limit to best SQL tutorials"
+  },
+  {
+    "login": "clarecorthell",
+    "message": "Added Mode Analytics tutorials in SQL"
+  },
+  {
+    "login": "clarecorthell",
+    "message": "Book price"
+  },
+  {
+    "login": "clarecorthell",
+    "message": "Better OSDSM top level description"
+  },
+  {
+    "login": "clarecorthell",
+    "message": "Python port of ML for Hackers from @carljv"
+  },
+  {
+    "login": "clarecorthell",
+    "message": "Pandas ipynbs"
+  },
+  {
+    "login": "clarecorthell",
+    "message": "OpenFlights"
+  },
+  {
+    "login": "clarecorthell",
+    "message": "Update README.md"
+  },
+  {
+    "login": "clarecorthell",
+    "message": "Blog contributed by @harjotsinghparmar"
+  },
+  {
+    "login": "clarecorthell",
+    "message": "Update blogs-n-media.md"
+  },
+  {
+    "login": "clarecorthell",
+    "message": "Merge pull request #47 from harjotsinghparmar/patch-2\n\nUpdate r-resources.md"
+  },
+  {
+    "login": "clarecorthell",
+    "message": "Merge pull request #44 from nunoskew/master\n\nUpdate blogs-n-media.md"
+  },
+  {
+    "login": "clarecorthell",
+    "message": "Merge pull request #46 from lgeorge/master\n\nLGeorge transcript"
+  },
+  {
+    "login": "harjotsinghparmar",
+    "message": "Update r-resources.md\n\nA very good web application framework which does not require knowledge of HTML,CSSS or JAVA"
+  },
+  {
+    "login": null,
+    "message": "minor formatting edits"
+  }
+]
+[
+  {
+    "login": "shannty",
+    "message": "Create Test Class"
+  },
+  {
+    "login": "shannty",
+    "message": "Create Textbook Class"
+  },
+  {
+    "login": "shannty",
+    "message": "Create Novel Class"
+  },
+  {
+    "login": "shannty",
+    "message": "Create Reading Class\n\nThe Parent Class"
+  },
+  {
+    "login": "shannty",
+    "message": "Create Newspaper Class"
+  },
+  {
+    "login": "shannty",
+    "message": "Initial commit"
+  }
+]
+[
+  {
+    "login": "shannty",
+    "message": "Create TestMergeSort"
+  },
+  {
+    "login": "shannty",
+    "message": "Create MergeSort"
+  },
+  {
+    "login": "shannty",
+    "message": "Initial commit"
+  }
+]
+[
+  {
+    "login": "shannty",
+    "message": "Update TagParser"
+  },
+  {
+    "login": "shannty",
+    "message": "Create TestParser"
+  },
+  {
+    "login": "shannty",
+    "message": "Create TagParser"
+  },
+  {
+    "login": "shannty",
+    "message": "Initial commit"
+  }
+]
+[
+  {
+    "login": "shannty",
+    "message": "Create README.md\n\nAdded README.md"
+  },
+  {
+    "login": "shannty",
+    "message": "rearranged file structure"
+  },
+  {
+    "login": "shannty",
+    "message": "First commit"
+  }
+]
+[
+  {
+    "login": "ewardle",
+    "message": "Initial commit.\n- Connection class (call to create a mysqli connection)\n- daylog_style.css (currently empty, fill with custom css)\n- list.php (model for any other pages; will eventually include the daily list for a game)\n\t- will use GET method (uid, gid) to determine whether to show nothing, a list of games played, or the dailies for a certain user and game\n- logout.php (will eventually be used to invalidate session)\n- navbar.php (include this on a page for the header bar; includes login form)\n- register.php (create a new user; still unimplemented)\n- validate.php (will eventually be used to ensure user input is valid, else return to main page with a login error)"
+  },
+  {
+    "login": "ewardle",
+    "message": "Initial commit"
+  }
+]
+[
+  {
+    "login": "ewardle",
+    "message": "Added a new change to sample."
+  },
+  {
+    "login": "ewardle",
+    "message": "Revert \"Did another change.\"\n\nThis reverts commit 77801489eb4fe7da8294e6830771cee209f9d33d.\n\nRevert changes"
+  },
+  {
+    "login": "ewardle",
+    "message": "Did another change."
+  },
+  {
+    "login": "ewardle",
+    "message": "Added sample file for exercise."
+  }
+]
+[
+  {
+    "login": "LamNg",
+    "message": "Merge pull request #10 from LamNg/stephaneDev\n\nStephanedev"
+  },
+  {
+    "login": "StephaneChan",
+    "message": "test123\n\nTesting ABC"
+  },
+  {
+    "login": "StephaneChan",
+    "message": "Merge remote-tracking branch 'refs/remotes/origin/master' into stephaneDev"
+  },
+  {
+    "login": "LamNg",
+    "message": "Merge pull request #9 from LamNg/lamDev\n\nLamdev"
+  },
+  {
+    "login": "LamNg",
+    "message": "Merge remote-tracking branch 'refs/remotes/origin/master' into lamDev"
+  },
+  {
+    "login": "LamNg",
+    "message": "hello world\n\nhello world"
+  },
+  {
+    "login": "LamNg",
+    "message": "Merge pull request #8 from LamNg/lamDev\n\nLamdev"
+  },
+  {
+    "login": "LamNg",
+    "message": "deleting testings\n\ndeleting testings"
+  },
+  {
+    "login": "LamNg",
+    "message": "Merge pull request #7 from LamNg/stephaneDev\n\nStephanedev"
+  },
+  {
+    "login": "StephaneChan",
+    "message": "testCommit\n\nTesting..."
+  },
+  {
+    "login": "ameenshake",
+    "message": "testing one more time"
+  },
+  {
+    "login": "LamNg",
+    "message": "Merge pull request #6 from LamNg/lamDev\n\nTesting"
+  },
+  {
+    "login": "StephaneChan",
+    "message": "Revert \"garbage\"\n\nThis reverts commit 0776b8a4e4987f39f5098d665bb4b771af8bfefc."
+  },
+  {
+    "login": "LamNg",
+    "message": "Testing\n\nTesting"
+  },
+  {
+    "login": "ameenshake",
+    "message": "garbage"
+  },
+  {
+    "login": "ameenshake",
+    "message": "-"
+  },
+  {
+    "login": "ameenshake",
+    "message": "-"
+  },
+  {
+    "login": "ameenshake",
+    "message": "testing a few things"
+  },
+  {
+    "login": "ameenshake",
+    "message": "deleted temp file"
+  },
+  {
+    "login": "ameenshake",
+    "message": "document"
+  },
+  {
+    "login": "ameenshake",
+    "message": "added project descriptions"
+  },
+  {
+    "login": "ameenshake",
+    "message": "added readme"
+  }
+]
+[
+  {
+    "login": "ameenshake",
+    "message": "fixed Readme and added Documentation"
+  },
+  {
+    "login": "ameenshake",
+    "message": "First commit"
+  },
+  {
+    "login": "ameenshake",
+    "message": "Initial commit"
+  }
+]
+[
+  {
+    "login": "ameenshake",
+    "message": "remove useless folder"
+  },
+  {
+    "login": "ameenshake",
+    "message": "added README"
+  },
+  {
+    "login": "ameenshake",
+    "message": "inital commit"
+  }
+]
+[
+  {
+    "login": "ameenshake",
+    "message": "updated"
+  },
+  {
+    "login": "ameenshake",
+    "message": "update README"
+  },
+  {
+    "login": "ameenshake",
+    "message": "update README"
+  },
+  {
+    "login": "ameenshake",
+    "message": "Initial commit"
+  }
+]
+[
+  {
+    "login": "sagebind",
+    "message": "Add AWS plugin (#407)"
+  },
+  {
+    "login": "nwykes",
+    "message": "fix db pkg entries pointing away from core plugins (#405)"
+  },
+  {
+    "login": "scorphus",
+    "message": "Amend templates (#403)\n\n* omf/templates: use ones name as copyright holder\r\n\r\n* omf/templates: use ones github username in URLs\r\n\r\n* omf/templates: use current yeat in copyright notice"
+  },
+  {
+    "login": "SanCoder-Q",
+    "message": "add pkg cd (#400)"
+  },
+  {
+    "login": "mdjarv",
+    "message": "assert fish version before asserting commands (#399)\n\n* assert fish version before asserting commands\r\n\r\n- fix #398 so that the correct error message is displayed\r\n\r\n* move assert_cmds to after fish and git checks\r\n\r\n- remove fish and git from assert_cmds, these checks are already done in their specific assert_ functions making them redundant in assert_cmds\r\n- move function assert_cmds to match execution order"
+  },
+  {
+    "login": "derekstavis",
+    "message": "registry: add archlinux plugin (fix #395) (#396)"
+  },
+  {
+    "login": "bobthecow",
+    "message": "Fix the blank lines in `omf update` output. (#394)"
+  },
+  {
+    "login": "sagebind",
+    "message": "Do not overwrite themes when installing from bundle (#385)"
+  },
+  {
+    "login": "amio",
+    "message": "Add \"eden\" to theme registry. (#357)\n\n* Add eden to omf theme registry.\r\n\r\n* Add theme-eden repo to oh-my-fish."
+  },
+  {
+    "login": "derekstavis",
+    "message": "registry: add node-binpath package (#391)"
+  },
+  {
+    "login": "sagebind",
+    "message": "Update moved plugin urls (#390)"
+  },
+  {
+    "login": "pantuza",
+    "message": "Adding fishbone theme on Oh my fish themes db"
+  },
+  {
+    "login": "sagebind",
+    "message": "Some gardening on the plugin tree (#383)"
+  },
+  {
+    "login": "sagebind",
+    "message": "~ expansion and always setup config in multiple installs (#381)"
+  },
+  {
+    "login": "sagebind",
+    "message": "Tweak readme (#380)"
+  },
+  {
+    "login": "sagebind",
+    "message": "Refactor installer and config setup (#361)\n\nRefactor the installer to be more maintainable and interactive. The installer is now more robust and safe in its operation, and asks interactive questions for choices that the user must resolve. Setting up confuguration is also now changed to take advantage of Fish 2.3 features and does not mess with user's configuration files without permission.\r\n\r\n- Make installer smarter and use uninstaller in destroy\r\n- Better handling and checking for offline installs\r\n- `omf destroy` simply uses `install --uninstall`\r\n- Final warning message is no longer displayed when user intentionally aborts install\r\n- Backups are restored during uninstall\r\n- Update the README to detail the new ways to install OMF"
+  },
+  {
+    "login": "sagebind",
+    "message": "Add keybindings file to dotfiles list (#378)\n\nFixes #377"
+  },
+  {
+    "login": "derekstavis",
+    "message": "CONTRIBUTING: give some fresh air (#373)\n\ngives some fresh air to contributing, reflecting more our current style and redaction."
+  },
+  {
+    "login": "derekstavis",
+    "message": "chore: bump LICENSE year (#371)"
+  },
+  {
+    "login": "derekstavis",
+    "message": "docs: improve headers, use flag emojis for translations (#370)"
+  },
+  {
+    "login": "derekstavis",
+    "message": "lib/README: cleanup, better document require (#369)"
+  },
+  {
+    "login": "derekstavis",
+    "message": "key bindings: test if reload function is available (#368)\n\nThis fixes a rare case when fish's builtin function\r\n__fish_reload_key_bindings is not defined."
+  },
+  {
+    "login": "derekstavis",
+    "message": "lib/git: fix branch name in detached head (#366)"
+  },
+  {
+    "login": "sagebind",
+    "message": "Fix omf update exit status (#365)"
+  },
+  {
+    "login": "sagebind",
+    "message": "Add Spark to package database (#364)"
+  },
+  {
+    "login": "sagebind",
+    "message": "Add hooks system for packages (#286)"
+  },
+  {
+    "login": "derekstavis",
+    "message": "registry: add package \"mou\" (#363)"
+  },
+  {
+    "login": "timanin",
+    "message": "Add virtualfish plugin to the registry (#360)\n\n* Add virtualfish plugin to the registry"
+  },
+  {
+    "login": "sagebind",
+    "message": "Add change log and update authors list (#359)"
+  },
+  {
+    "login": "sagebind",
+    "message": "Align help text to use less extra space (#356)"
+  }
+]
+[
+  {
+    "login": "ameenshake",
+    "message": "Beautify airhotels.phtml"
+  },
+  {
+    "login": "ameenshake",
+    "message": "Originals"
+  }
+]
+[
+  {
+    "login": "cedricgc",
+    "message": "Added python files to Euler"
+  },
+  {
+    "login": "cedricgc",
+    "message": "Fixes"
+  },
+  {
+    "login": "cedricgc",
+    "message": "Cleaned up CSS"
+  },
+  {
+    "login": "cedricgc",
+    "message": "Added gradient option"
+  },
+  {
+    "login": "cedricgc",
+    "message": "Added color change option, default behavior now random color"
+  },
+  {
+    "login": "cedricgc",
+    "message": "Added color change option"
+  },
+  {
+    "login": "cedricgc",
+    "message": "fixes to README"
+  },
+  {
+    "login": "cedricgc",
+    "message": "fixes to README"
+  },
+  {
+    "login": "cedricgc",
+    "message": "Added preview page to README"
+  },
+  {
+    "login": "cedricgc",
+    "message": "removed alerts"
+  },
+  {
+    "login": "cedricgc",
+    "message": "added link to README"
+  },
+  {
+    "login": "cedricgc",
+    "message": "added link to README"
+  },
+  {
+    "login": "cedricgc",
+    "message": "Added comments"
+  },
+  {
+    "login": "cedricgc",
+    "message": "First completed draft"
+  },
+  {
+    "login": "cedricgc",
+    "message": "reworked js, create grid"
+  },
+  {
+    "login": "cedricgc",
+    "message": "reworked js, take in prompt"
+  },
+  {
+    "login": "cedricgc",
+    "message": "first draft"
+  },
+  {
+    "login": "cedricgc",
+    "message": "created basic html structure and styling"
+  },
+  {
+    "login": "cedricgc",
+    "message": "Initialized project files"
+  },
+  {
+    "login": "cedricgc",
+    "message": "javascript slider, added hover effect"
+  },
+  {
+    "login": "cedricgc",
+    "message": "javascript slider, created next and prev button scripts"
+  },
+  {
+    "login": "cedricgc",
+    "message": "javascript slider, working slider"
+  },
+  {
+    "login": "cedricgc",
+    "message": "Improved Euler 7, Euler 8"
+  },
+  {
+    "login": "cedricgc",
+    "message": "Euler 7"
+  },
+  {
+    "login": "cedricgc",
+    "message": "Euler 6"
+  },
+  {
+    "login": "cedricgc",
+    "message": "Euler problem 5"
+  },
+  {
+    "login": "cedricgc",
+    "message": "More improvements to Euler problem #4"
+  },
+  {
+    "login": "cedricgc",
+    "message": "Small improvements to Euler problem #4"
+  },
+  {
+    "login": "cedricgc",
+    "message": "Euler problem #4"
+  },
+  {
+    "login": "cedricgc",
+    "message": "Added google-homepage Odin project"
+  }
+]
+[
+  {
+    "login": "ameenshake",
+    "message": "first commit"
+  },
+  {
+    "login": "ameenshake",
+    "message": "Initial commit"
+  }
+]
+[
+  {
+    "login": "ameenshake",
+    "message": "project 75% done"
+  }
+]
+[
+  {
+    "login": "ameenshake",
+    "message": "first"
+  }
+]
+[
+  {
+    "login": "ameenshake",
+    "message": "ignore the ignorer"
+  },
+  {
+    "login": "ameenshake",
+    "message": "git ignore"
+  },
+  {
+    "login": "ameenshake",
+    "message": "its just a whale"
+  },
+  {
+    "login": "ameenshake",
+    "message": "capital M"
+  },
+  {
+    "login": "ameenshake",
+    "message": "added proper html tags"
+  },
+  {
+    "login": "ameenshake",
+    "message": "Add baz"
+  },
+  {
+    "login": "ameenshake",
+    "message": "help"
+  },
+  {
+    "login": "ameenshake",
+    "message": "help"
+  },
+  {
+    "login": "ameenshake",
+    "message": "\"addd bar\""
+  },
+  {
+    "login": "ameenshake",
+    "message": "meh"
+  },
+  {
+    "login": "ameenshake",
+    "message": "first"
+  }
+]

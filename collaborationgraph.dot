@@ -1,0 +1,35 @@
+digraph d{
+
+ shannty -> { BasicJavaThings BinarySearch COSC499 CS106B datasciencecoursera datasharing go InheritancePractice MergeSort SimpleTextParser StatLearning }
+ ewardle -> { cosc360daylog Workshop }
+ droswell -> { firstmapgithubio TestProject }
+ lamng -> { DrupalCommerce }
+ ameenshake -> { EzBuy FeedMe googlehomepage ohmyfish OKListerTheme playground ProEuler Scratchpad Slider ubcobooks }
+ BasicJavaThings -> { shannty }
+ BinarySearch -> { shannty }
+ COSC499 -> { shannty }
+ CS106B -> { shannty }
+ datasciencecoursera -> { shannty }
+ datasharing -> { jtleek nikai3d rpglover64 jimktrains snoldak924 nickreich lcolladotor mmparker }
+ go -> { clarecorthell harjotsinghparmar }
+ InheritancePractice -> { shannty }
+ MergeSort -> { shannty }
+ SimpleTextParser -> { shannty }
+ StatLearning -> { shannty }
+ cosc360daylog -> { ewardle }
+ Workshop -> { ewardle }
+ firstmapgithubio -> { droswell }
+ TestProject -> { droswell }
+ DrupalCommerce -> { lamng stephanechan ameenshake }
+ EzBuy -> { ameenshake }
+ FeedMe -> { ameenshake }
+ googlehomepage -> { ameenshake }
+ ohmyfish -> { ameenshake sagebind nwykes scorphus SanCoderQ mdjary derekstavis bobthecow amio derekstavis pantuza timanin }
+ OKListerTheme -> { ameenshake cedricgc }
+ playground -> {ameenshake}
+ ProEuler -> {ameenshake}
+ Scratchpad -> {ameenshake}
+ Slider -> {ameenshake}
+ ubcobooks -> {ameenshake}
+
+}
